@@ -1,4 +1,4 @@
-# Lab 08: Image Processing (Week 2)
+# Lab 08: Number Representation and Waveform Quantization
 
 ## Getting Started
 
